@@ -4,7 +4,7 @@
 
 ## Prezentacja działania:
 
-https://youtu.be/GHc4hViKelc
+https://www.youtube.com/shorts/-QILLtGp_7s
 
 ## Autor: Szymon Warguła 158037
 
