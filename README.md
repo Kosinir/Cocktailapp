@@ -113,28 +113,31 @@ Otrzymuje dane z CocktailListScreen: listę koktajli, kontekst i funkcję obsłu
 (cocktailId). Łączy dane z CocktailDetailViewModel i zarządza minutnikiem
 (TimerViewModel).
 
-● Pokazuje zdjęcie, nazwę, czas przygotowania, składniki oraz instrukcje.
-● Umożliwia ustawienie czasu ręcznie i uruchomienie timera (start/pauza/reset).
-● Fab do wysyłania listy składników SMS-em (Intent.ACTION_SENDTO).
-● Dane koktajlu są ładowane przez LaunchedEffect, a timer automatycznie ustawiany na podstawie prepTimeMinutes.
+- Pokazuje zdjęcie, nazwę, czas przygotowania, składniki oraz instrukcje.
+- Umożliwia ustawienie czasu ręcznie i uruchomienie timera (start/pauza/reset).
+- Fab do wysyłania listy składników SMS-em (Intent.ACTION_SENDTO).
+- Dane koktajlu są ładowane przez LaunchedEffect, a timer automatycznie ustawiany na podstawie prepTimeMinutes.
 
 <img width="345" height="717" alt="image" src="https://github.com/user-attachments/assets/633a7510-20a2-4ac1-9b28-7073ba4c3278" />
 
+
+
 **CocktailListScreen** główny ekran z listą koktajli:
 
-● Wykorzystuje CocktailListViewModel do pobierania danych.
-● Wykorzystuje HorizontalPager z zakładkami: Home, Łatwe (preptime ≤ 3 min), Trudne
-(preptime > 3 min).
-● Posiada płynne zapętlenie stron (symulacja nieskończonego scrollowania — LaunchedEffect z
-scrollToPage).
-● Obsługuje zmianę trybu ciemnego i przejście do szczegółów przez callback onItemClick.
+- Wykorzystuje CocktailListViewModel do pobierania danych.
+- Wykorzystuje HorizontalPager z zakładkami: Home, Łatwe (preptime ≤ 3 min), Trudne (preptime > 3 min).
+- Posiada płynne zapętlenie stron (symulacja nieskończonego scrollowania — LaunchedEffect z scrollToPage).
+- Obsługuje zmianę trybu ciemnego i przejście do szczegółów przez callback onItemClick.
 
 <img width="349" height="745" alt="image" src="https://github.com/user-attachments/assets/9e57c465-d1ad-416d-91a8-b5d6bea2f8e2" />
 
+
+
 **HomeTabContent** zawartość zakładki Home.
-● Wyświetla: powitanie i krótki opis aplikacji + autora.
-● Umożliwia przełączenie trybu ciemnego (Switch).
-● Całość przewijana (verticalScroll) i stylizowana zgodnie z MaterialTheme.
+
+- Wyświetla: powitanie i krótki opis aplikacji + autora.
+- Umożliwia przełączenie trybu ciemnego (Switch).
+- Całość przewijana (verticalScroll) i stylizowana zgodnie z MaterialTheme.
 
 <img width="338" height="683" alt="image" src="https://github.com/user-attachments/assets/d9f7fb3a-34cc-46e3-8560-1fd18513ce71" />
 
