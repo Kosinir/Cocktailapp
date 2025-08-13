@@ -2,6 +2,10 @@
 
 ## Projekt: Lista-Szczegół: przepisy koktajli
 
+## Prezentacja działania:
+
+https://youtu.be/GHc4hViKelc
+
 ## Autor: Szymon Warguła 158037
 
 ## Semestr: 6
