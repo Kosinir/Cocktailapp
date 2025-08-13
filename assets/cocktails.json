@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "name": "Bloody Mary",
+    "prepTimeMinutes": 2,
+    "ingredients": [
+      "40 ml wódki",
+      "10 ml soku z cytryny",
+      "120 ml soku pomidorowego",
+      "Sos Worcestershire",
+      "Sól",
+      "Pieprz",
+      "Tabasco",
+      "Gałązka selera naciowego"
+    ],
+    "instructions": "Wszystkie składniki wymieszać w szklance z lodem i ozdobić selerem naciowym.",
+    "imageRes": "bloody_mary"
+  },
+  {
+    "id": 2,
+    "name": "Margarita",
+    "prepTimeMinutes": 3,
+    "ingredients": [
+      "50 ml tequili",
+      "25 ml likieru pomarańczowego",
+      "15 ml soku z limonki",
+      "Sól"
+    ],
+    "instructions": "Brzeg kieliszka obtocz w soli, wstrząśnij składniki z lodem w shakerze, przelej do kieliszka.",
+    "imageRes": "margarita"
+  },
+  {
+    "id": 3,
+    "name": "Mojito",
+    "prepTimeMinutes": 5,
+    "ingredients": [
+      "40 ml białego rumu",
+      "8–10 listków mięty",
+      "2 łyżeczki cukru trzcinowego",
+      "20 ml soku z limonki",
+      "Soda",
+      "Lód"
+    ],
+    "instructions": "Ugnieć miętę z cukrem i limonką, dodaj rum, lód i dopełnij sodą.",
+    "imageRes": "mojito"
+  },
+  {
+    "id": 4,
+    "name": "Cosmopolitan",
+    "prepTimeMinutes": 4,
+    "ingredients": [
+      "45 ml wódki cytrynowej",
+      "15 ml likieru pomarańczowego",
+      "15 ml soku z żurawiny",
+      "10 ml soku z limonki"
+    ],
+    "instructions": "Wstrząśnij wszystkie składniki z lodem w shakerze, przecedź do schłodzonego kieliszka koktajlowego.",
+    "imageRes": "cosmopolitan"
+  },
+  {
+    "id": 5,
+    "name": "Old Fashioned",
+    "prepTimeMinutes": 3,
+    "ingredients": [
+      "50 ml bourbonu",
+      "1 kostka cukru",
+      "2–3 krople Angostura Bitters",
+      "Kawałek skórki pomarańczowej",
+      "Lód"
+    ],
+    "instructions": "Cukier wymieszaj z bitters i odrobiną wody, dodaj bourbon i lód, wymieszaj, ozdób skórką.",
+    "imageRes": "old_fashioned"
+  },
+  {
+    "id": 6,
+    "name": "Negroni",
+    "prepTimeMinutes": 2,
+    "ingredients": [
+      "30 ml ginu",
+      "30 ml Campari",
+      "30 ml słodkiego wermutu",
+      "Skórka pomarańczowa",
+      "Lód"
+    ],
+    "instructions": "Wszystkie składniki wlej do szklanki z lodem, delikatnie wymieszaj, ozdób skórką.",
+    "imageRes": "negroni"
+  },
+  {
+    "id": 7,
+    "name": "Piña Colada",
+    "prepTimeMinutes": 5,
+    "ingredients": [
+      "60 ml białego rumu",
+      "90 ml soku ananasowego",
+      "30 ml kremu kokosowego",
+      "Lód",
+      "Plaster ananasa"
+    ],
+    "instructions": "Zmiksuj wszystkie składniki z lodem w blenderze, podawaj w wysokiej szklance, ozdób ananasem.",
+    "imageRes": "pina_colada"
+  },
+  {
+    "id": 8,
+    "name": "Whiskey Sour",
+    "prepTimeMinutes": 3,
+    "ingredients": [
+      "45 ml bourbonu",
+      "30 ml soku z cytryny",
+      "15 ml syropu cukrowego",
+      "Białko jajka (opcjonalnie)",
+      "Lód"
+    ],
+    "instructions": "Wstrząśnij wszystkie składniki z lodem (najpierw bez białka, potem z białkiem), przecedź do szklanki.",
+    "imageRes": "whisky_sour"
+  },
+  {
+    "id": 9,
+    "name": "Daiquiri",
+    "prepTimeMinutes": 3,
+    "ingredients": [
+      "45 ml białego rumu",
+      "25 ml soku z limonki",
+      "15 ml syropu cukrowego",
+      "Lód"
+    ],
+    "instructions": "Wstrząśnij składniki z lodem w shakerze, przecedź do schłodzonego kieliszka.",
+    "imageRes": "daiquiri"
+  },
+  {
+    "id": 10,
+    "name": "Gin Tonic",
+    "prepTimeMinutes": 1,
+    "ingredients": [
+      "50 ml ginu",
+      "120 ml toniku",
+      "Plasterek ogórka lub limonki",
+      "Lód"
+    ],
+    "instructions": "Do szklanki z lodem wlej gin, dopełnij tonikiem, delikatnie wymieszaj i ozdób plasterkiem.",
+    "imageRes": "gin_tonic"
+  },
+  {
+    "id": 11,
+    "name": "Mai Tai",
+    "prepTimeMinutes": 4,
+    "ingredients": [
+      "30 ml jasnego rumu",
+      "30 ml ciemnego rumu",
+      "15 ml likieru pomarańczowego",
+      "15 ml syropu migdałowego",
+      "15 ml soku z limonki"
+    ],
+    "instructions": "Wstrząśnij wszystkie składniki z lodem w shakerze, przelej do szklanki z lodem, ozdób listkiem mięty.",
+    "imageRes": "mai_tai"
+  },
+  {
+    "id": 12,
+    "name": "Long Island Iced Tea",
+    "prepTimeMinutes": 6,
+    "ingredients": [
+      "15 ml wódki",
+      "15 ml ginu",
+      "15 ml tequili",
+      "15 ml rumu",
+      "15 ml likieru pomarańczowego",
+      "25 ml soku z cytryny",
+      "Cola",
+      "Plaster cytryny"
+    ],
+    "instructions": "Wstrząśnij wszystkie alkohole i sok z cytryny z lodem, przelej do szklanki, uzupełnij colą i ozdób cytryną.",
+    "imageRes": "long_island_iced_tea"
+  }
+]
